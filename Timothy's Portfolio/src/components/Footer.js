@@ -2,7 +2,7 @@ export default function Footer() {
     return (
       <footer>
         <h4>
-          &copy; 2022&nbsp;
+          &copy; 2023&nbsp;
           <a
             href="https://www.timothytaffur.org"
             target="_blank"
